@@ -63,7 +63,7 @@ https://snapcraft.io/hamster-snap
 ###### Ubuntu (tested in 19.04 and 18.04)
 
 ```bash
-sudo apt install gettext intltool python3-gi-cairo python3-distutils python3-dbus python3-xdg
+sudo apt install gettext intltool libglib2.0-dev python3-gi-cairo python3-distutils python3-dbus python3-xdg
 # and for documentation
 sudo apt install gnome-doc-utils yelp
 ```
